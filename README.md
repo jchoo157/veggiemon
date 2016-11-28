@@ -6,22 +6,17 @@ You can check out the live version [here] (http://veggiemongrow2016.herokuapp.co
 
 ![chat] (https://github.com/kenikall/veggiemon/blob/dev/app/assets/images/veg.gif)
 
+### Battling Veggiemon
 
 ![search] (https://github.com/kenikall/veggiemon/blob/dev/app/assets/images/veggiemon.gif)
 
-### The battle.
-
-![signup] (https://github.com/erinc35/veggiemon/blob/dev/public/images/brocodile.png)
-
-### Broccodile.
+### Google Maps to view local Farmers Markets and Parks
 
 ![chat] (https://github.com/kenikall/veggiemon/blob/dev/app/assets/images/veggiemon_maps.gif)
 
-### Map feature.
+### Backpack that shows items and Veggiemon collected
 
 ![chat] (https://github.com/kenikall/veggiemon/blob/dev/app/assets/images/veggiemon_backpack.gif)
-
-### Backpack display.
 
 ## Getting Started
 
@@ -72,8 +67,8 @@ gmail-like-chat-application-in-ruby-on-rails
 
 ## Authors
 
-* **Erinç Emer** - [Github](https://github.com/erinc35)
 * **Johnny Choo** - [Github](https://github.com/jchoo157)
+* **Erinç Emer** - [Github](https://github.com/erinc35)
 * **Mannah Kallon** - [Github](https://github.com/kenikall)
 * **Chistopher Johnson** - [Github](https://github.com/Koala-t)
 
